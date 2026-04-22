@@ -7,3 +7,4 @@ CREATE TABLE Khach(
 id_Khach char(3) NOT NULL
 )
 /*Tuấn mặt lồn */
+/*tuan yeu huy*/
