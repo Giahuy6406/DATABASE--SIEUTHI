@@ -28,6 +28,7 @@
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="d4e9655d-b43e-46aa-a6af-f46823cc8a91">
       <console name="Connection" type="STANDARD" schema="postgres" session="Main" />
+      <console name="Supermarket" type="STANDARD" schema="postgres" session="Main" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseEditorStateManager">
